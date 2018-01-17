@@ -3,7 +3,7 @@ Allows Unity to receive MIDI Input using winmm.dll. Includes a very basic synthe
 
 ## Features
 - Only one script needed to enable MIDI input
-- Comes with a simple synthesizer script
+- Comes with a simple synthesizer script (only for demonstration purposes, it regularly throws exceptions and produces some nasty crackling noise)
 - winmm.dll is documented in the [Windows Dev Center](https://msdn.microsoft.com/en-us/library/windows/desktop/dd757277(v=vs.85).aspx) and easy to understand
 
 ## System Requirements
